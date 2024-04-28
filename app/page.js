@@ -6,11 +6,7 @@ export default function Home() {
       <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm bg-slate-100 ">
         <h1 className='text-8xl px-24 py-16 text-center text-blue-300'> <b>Welcome to <a className="text-blue-400">EmoDetector</a></b></h1>
         <div className="text-center">
-         
-          <button className="text-slate-100 bg-blue-300 py-4 px-24  space-x-2 text-xl inline hover:bg-blue-200 "> 
-          <Link href="http://localhost:3000/patients">Click to load images</Link>
-          </button>
-
+          <Link className="text-slate-100 bg-blue-300 py-4 px-24  space-x-2 text-xl inline hover:bg-blue-200 " href="/patients">Click to load images</Link>
         </div>
       </div>
     </main>
