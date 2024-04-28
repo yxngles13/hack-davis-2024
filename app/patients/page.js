@@ -16,12 +16,10 @@ export default function Patients() {
               alt="Patient 1"
             />
           </Link>
-
           <figcaption className="text-blue-300 text-l font-mono font-bold">
             Patient 1
           </figcaption>
         </figure>
-
         <figure>
           <img
             src="https://media4.giphy.com/media/vFKqnCdLPNOKc/200w.gif?cid=6c09b952mha8seiriaeiuelwmrub64anaffc1vdjemkdfy40&ep=v1_gifs_search&rid=200w.gif&ct=g"
@@ -29,12 +27,10 @@ export default function Patients() {
             width={300}
             alt="Patient 2"
           ></img>
-
           <figcaption className="text-blue-300 text-l font-mono font-bold">
             Patient 2
           </figcaption>
         </figure>
-
         <figure>
           <img
             src="https://media4.giphy.com/media/vFKqnCdLPNOKc/200w.gif?cid=6c09b952mha8seiriaeiuelwmrub64anaffc1vdjemkdfy40&ep=v1_gifs_search&rid=200w.gif&ct=g"
@@ -42,12 +38,10 @@ export default function Patients() {
             width={300}
             alt="Patient 3"
           ></img>
-
           <figcaption className="text-blue-300 text-l font-mono font-bold">
             Patient 3
           </figcaption>
         </figure>
-
         <figure>
           <img
             src="https://media4.giphy.com/media/vFKqnCdLPNOKc/200w.gif?cid=6c09b952mha8seiriaeiuelwmrub64anaffc1vdjemkdfy40&ep=v1_gifs_search&rid=200w.gif&ct=g"
@@ -55,12 +49,10 @@ export default function Patients() {
             width={300}
             alt="Patient 4"
           ></img>
-
           <figcaption className="text-blue-300 text-l font-mono font-bold">
             Patient 4
           </figcaption>
         </figure>
-
         <figure>
           <img
             src="https://media4.giphy.com/media/vFKqnCdLPNOKc/200w.gif?cid=6c09b952mha8seiriaeiuelwmrub64anaffc1vdjemkdfy40&ep=v1_gifs_search&rid=200w.gif&ct=g"
@@ -68,12 +60,10 @@ export default function Patients() {
             width={300}
             alt="Patient 5"
           ></img>
-
           <figcaption className="text-blue-300 text-l font-mono font-bold">
             Patient 5
           </figcaption>
         </figure>
-
         <figure>
           <img
             src="https://media4.giphy.com/media/vFKqnCdLPNOKc/200w.gif?cid=6c09b952mha8seiriaeiuelwmrub64anaffc1vdjemkdfy40&ep=v1_gifs_search&rid=200w.gif&ct=g"
@@ -81,9 +71,8 @@ export default function Patients() {
             width={300}
             alt="Patient 6"
           ></img>
-
           <figcaption className="text-blue-300 text-l font-mono font-bold">
-            Patient 6{" "}
+            Patient 6
           </figcaption>
         </figure>
       </div>
